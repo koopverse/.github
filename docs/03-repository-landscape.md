@@ -12,8 +12,9 @@ Koopverse organises repositories by capability, ownership boundary, and reuse le
 
 ## Diagram: repository landscape
 
+Source: [docs/diagrams/repository-landscape.mmd](diagrams/repository-landscape.mmd) (keep this snippet in sync with the source).
+
 ```mermaid
-flowchart TD
     A[Golden Path Starter Kits] --> D[Product Service Repositories]
     B[Shared Terraform Modules] --> D
     C[Shared Helm Charts] --> D
