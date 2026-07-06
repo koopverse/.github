@@ -16,8 +16,9 @@ Platform teams at Koopverse treat application and product squads as their primar
 
 ## Diagram: team topology
 
+Source: [docs/diagrams/team-topology.mmd](diagrams/team-topology.mmd) (keep this snippet in sync with the source).
+
 ```mermaid
-flowchart LR
     A[Platform Governance Team] --> B[Golden Path Team]
     A --> C[Security and Compliance]
     B --> D[Product Squad A]
