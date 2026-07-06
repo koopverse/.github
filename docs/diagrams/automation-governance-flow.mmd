@@ -1,0 +1,8 @@
+flowchart LR
+    A[Developer Push or Issue Request] --> B[GitHub Actions Workflow]
+    B --> C[Provisioning and Delivery Automation]
+    B --> D[Security and Compliance Checks]
+    D --> E[Policy as Code Decision]
+    E -->|Pass| F[Deploy via GitOps]
+    E -->|Fail| G[Block and Report]
+    H[Copilot Assistance] --> B
