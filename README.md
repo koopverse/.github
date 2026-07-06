@@ -28,8 +28,10 @@ Our goal is to treat infrastructure as a product, create a reliable golden path 
 - [Automation and governance](docs/07-automation-and-governance.md)
 - [GitHub Projects delivery model](docs/08-github-projects-and-delivery.md)
 
-## Diagrams
+## Diagrams (Mermaid source)
 
-- [Team topology diagram](docs/diagrams/team-topology.mmd)
-- [Repository landscape diagram](docs/diagrams/repository-landscape.mmd)
-- [Automation and governance flow diagram](docs/diagrams/automation-governance-flow.mmd)
+These links point to the Mermaid source files. Rendered diagrams are embedded in the concept docs above.
+
+- [Team topology source](docs/diagrams/team-topology.mmd)
+- [Repository landscape source](docs/diagrams/repository-landscape.mmd)
+- [Automation and governance flow source](docs/diagrams/automation-governance-flow.mmd)
