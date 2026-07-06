@@ -22,8 +22,9 @@ Automation is the operational backbone of the platform, with governance enforced
 
 ## Diagram: automation and governance flow
 
+Source: [docs/diagrams/automation-governance-flow.mmd](diagrams/automation-governance-flow.mmd) (keep this snippet in sync with the source).
+
 ```mermaid
-flowchart LR
     A[Developer Push or Issue Request] --> B[GitHub Actions Workflow]
     B --> C[Provisioning and Delivery Automation]
     B --> D[Security and Compliance Checks]
