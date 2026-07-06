@@ -1,6 +1,6 @@
 # Koopverse Platform Engineering Centre of Excellence
 
-Koopverse is building a practical **Centre of Excellence** for modern platform engineering and GitOps on GitHub.  
+Koopverse is building a practical **Centre of Excellence** for modern platform engineering and GitOps on GitHub.
 Our goal is to treat infrastructure as a product, create a reliable golden path for delivery, and help product teams ship securely with less operational overhead.
 
 ## What this organisation profile covers
